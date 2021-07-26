@@ -37,7 +37,7 @@ const App: React.FC = () => {
     <div className="w-full h-screen bg-gray-200 font-serif">
       <div className="bg-gradient-to-b from-purple-800 to-purple-500 p-5 pb-16">
         <div className="max-w-2xl mx-auto">
-          <div className="text-white text-4xl">Svg Path Measure</div>
+          <div className="text-white text-4xl">Svg Path Length</div>
           <div className="text-white text-lg font-thin font-sans">
             Paste your path, get a length.
           </div>
