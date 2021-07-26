@@ -54,6 +54,7 @@ const App: React.FC = () => {
                 value={d}
                 onChange={(e) => setD(e.target.value)}
                 placeholder="M10 0.5L75 65L0.5 114.5"
+                autoFocus
               />
             </div>
           </div>
