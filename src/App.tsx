@@ -53,7 +53,7 @@ const App: React.FC = () => {
                 className="p-2 w-full font-sans"
                 value={d}
                 onChange={(e) => setD(e.target.value)}
-                placeholder="d="
+                placeholder="M10 0.5L75 65L0.5 114.5"
               />
             </div>
           </div>
